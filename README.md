@@ -1,2 +1,4 @@
 # JavaWebStudy-SpringCore
-SpringCore study
+Study about Spring Container, Ioc, DI
+
+
